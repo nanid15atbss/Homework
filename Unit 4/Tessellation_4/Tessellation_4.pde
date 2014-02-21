@@ -181,8 +181,8 @@ void drawMyShape(int x, int y) {
   vertex(20, 70);
   vertex(0, 70);
   vertex(0, 50);
-  vertex(20, 50);
-  vertex(20, 30);
+  vertex(-20, 50);
+  vertex(-20, 30);
   vertex(0, 30);
   endShape();
   popMatrix();
